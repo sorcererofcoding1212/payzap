@@ -31,6 +31,8 @@ for the Payzap project.
 
 ## Key Features
 
+## Key Features
+
 - **Authentication**  
   In-house authentication along with external providers such as Google and GitHub.
 
@@ -38,7 +40,7 @@ for the Payzap project.
   Users can send, receive, and request money with real-time updates.
 
 - **On-Ramp & Off-Ramp Transactions**  
-  A dedicated bank microservice simulates deposits and withdrawals
+  A dedicated bank service simulates deposits and withdrawals
   to and from external accounts.
 
 - **Real-Time Transfers & Requests**  
@@ -48,6 +50,11 @@ for the Payzap project.
 - **Interactive Dashboard & Analytics**  
   Users can view transaction history, analytics, and charts through
   an interactive dashboard with real-time notifications.
+
+- **Robust Data Modeling**  
+  Well-structured database schema designed to ensure consistency,
+  integrity, and reliable transaction and balance handling.
+
 
 ---
 
