@@ -23,7 +23,7 @@ for the Payzap project.
 
 - Live Application: https://payzap-app.onrender.com
 - Main Application Repository: https://github.com/sorcererofcoding1212/payzap-app
-- Webhook Repository: https://github.com/sorcererofcoding1212/payzap-webhook
+- Webhook Service Repository: https://github.com/sorcererofcoding1212/payzap-webhook
 - Bank Service Repository: https://github.com/sorcererofcoding1212/payzap-bank
 - Realtime Service Repository: https://github.com/sorcererofcoding1212/payzap-ws
 
