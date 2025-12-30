@@ -47,6 +47,12 @@ for the Payzap project.
   P2P transfers and payment requests are processed with real-time
   status updates and notifications.
 
+- **Email Verification Enforcement**
+  Newly registered users must verify their email address before accessing
+  wallet features. The application enforces this restriction to prevent
+  unverified accounts from sending, receiving,
+  or requesting money.
+
 - **Interactive Dashboard & Analytics**  
   Users can view transaction history, analytics, and charts through
   an interactive dashboard with real-time notifications.
