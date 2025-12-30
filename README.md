@@ -49,9 +49,7 @@ for the Payzap project.
 
 - **Email Verification Enforcement**
   Newly registered users must verify their email address before accessing
-  wallet features. The application enforces this restriction to prevent
-  unverified accounts from sending, receiving,
-  or requesting money.
+  wallet features.
 
 - **Interactive Dashboard & Analytics**  
   Users can view transaction history, analytics, and charts through
