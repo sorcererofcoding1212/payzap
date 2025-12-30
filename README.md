@@ -31,8 +31,6 @@ for the Payzap project.
 
 ## Key Features
 
-## Key Features
-
 - **Authentication**  
   In-house authentication along with external providers such as Google and GitHub.
 
